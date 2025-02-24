@@ -1,6 +1,6 @@
 # Pokémon Info  
 
-![Screenshot](./src/public/images/print.png)  
+![Screenshot](./src/images/print.png)  
 
 A simple project to fetch Pokémon details using **PokéAPI**.  
 
