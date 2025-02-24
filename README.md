@@ -2,14 +2,14 @@
 
 ![Screenshot](./src/public/images/print.png)  
 
-Projeto para buscar informações de Pokémons usando a **PokéAPI**.  
+A simple project to fetch Pokémon details using **PokéAPI**.  
 
-## Como Usar  
+## How to Use  
 
-- **[Acesse aqui](index.html)** e pesquise um Pokémon pelo nome ou ID.  
-- Se já listado, a linha pisca em verde para indicar duplicata.  
+- **[Access here](index.html)** and search for a Pokémon by name or ID.  
+- If already listed, the row will flash green to indicate a duplicate.  
 
-## Tecnologias  
+## Technologies  
 
 - **HTML, CSS (Bootstrap)**  
 - **JavaScript (Fetch API)**  
